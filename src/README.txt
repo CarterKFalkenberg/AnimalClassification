@@ -9,4 +9,6 @@ I used roboflow to augment the data and tripled the size, using slight rotations
 Here is a link to the roboflow page: https://universe.roboflow.com/chess-ynmuj/animal-detection-3deg6 
 
 Because deep learning requires heavy computing power, I was not able to run the model on my computer, but rather provide 
-a proof of concept. For our app, this model would be trained in a GPU rich environment to ensure speed and accuracy. 
+a proof of concept of the code that would be used. For our app, this model would be trained in a GPU rich environment to ensure speed and accuracy. 
+
+While I was not able to run my code locally, I was able to use free credits on Roboflow to use their ML algorithms to train for classifications. Results pending
